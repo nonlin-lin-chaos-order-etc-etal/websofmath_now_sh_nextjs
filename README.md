@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Web of mathematics instances
+
+https://webs-of-math.now.sh/
+
+начинаю мутить "паутину математик" — инстанс математики задаётся константным контентом с URL.
+
+`URL CONTENTHASHALGONAME:CONTENTHASHRESULT MMOUTPUT`
+
+`URL CONTENT-HASH-FUNCTION-DEFINITION:CONTENT-HASH-FUNCTION-RESULT METAMATH-OUTPUT`
+
+See also: https://metamath.org/
+
+(Older non-edited content follows below.)
+  
+  This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
