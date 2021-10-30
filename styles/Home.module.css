@@ -33,6 +33,13 @@
   flex-grow: 1;
 }
 
+.footerline {
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
 .title a {
   color: #0070f3;
   text-decoration: none;
