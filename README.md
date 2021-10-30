@@ -2,7 +2,7 @@
 
 https://webs-of-math.now.sh/
 
-начинаю мутить "паутину математик" — инстанс математики задаётся константным контентом с URL.
+Starting to dig the «webs of mathematics» ::= instance of mathematics is defined by a sample finite HTTP content stream from an URL.
 
 `URL CONTENTHASHALGONAME:CONTENTHASHRESULT MMOUTPUT`
 
