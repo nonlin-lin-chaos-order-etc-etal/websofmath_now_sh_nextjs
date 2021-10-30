@@ -53,7 +53,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <p className={global_styles.footerline}>
+        <p className={footerline}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
@@ -65,7 +65,7 @@ export default function Home() {
           </span>
         </a>
         </p>
-        <p className={global_styles.footerline}>
+        <p className={footerline}>
         <a
           href="https://github.com/nonlin-lin-chaos-order-etc-etal/websofmath_now_sh_nextjs"
           target="_blank"
