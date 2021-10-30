@@ -65,6 +65,7 @@ export default function Home() {
           </span>
         </a>
         </p>
+        <br/>
         <p>
         <a
           href="https://github.com/nonlin-lin-chaos-order-etc-etal/websofmath_now_sh_nextjs"
