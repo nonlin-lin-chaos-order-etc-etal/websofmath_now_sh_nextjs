@@ -72,7 +72,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Website{"'"}s Source Code
+          Edit on GitHub
         </a>
         </p>
       </footer>
