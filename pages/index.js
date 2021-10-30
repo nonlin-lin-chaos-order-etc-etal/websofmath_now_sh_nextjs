@@ -63,6 +63,14 @@ export default function Home() {
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
         </a>
+        * 
+        <a
+          href="https://github.com/nonlin-lin-chaos-order-etc-etal/websofmath_now_sh_nextjs"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Website{"'"}s Source Code
+        </a>
       </footer>
     </div>
   )
